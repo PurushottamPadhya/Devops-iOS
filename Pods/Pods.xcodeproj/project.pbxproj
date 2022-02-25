@@ -16,6 +16,7 @@
 			dependencies = (
 			);
 			name = AppCenter;
+			productName = AppCenter;
 		};
 /* End PBXAggregateTarget section */
 
@@ -67,21 +68,21 @@
 		60607BCF3E218C184ED9684D24EEE78E /* Pods-Devops-iOSTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Devops-iOSTests.modulemap"; sourceTree = "<group>"; };
 		6290239DBB0F8101FAD0C6D28F0F450F /* Pods-Devops-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Devops-iOS.modulemap"; sourceTree = "<group>"; };
 		64BF5AF75AC57D32FFAB5C35287E81FA /* Pods-Devops-iOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Devops-iOS-acknowledgements.markdown"; sourceTree = "<group>"; };
-		72F1C87A91DD130F3F8462BC71DEC0D9 /* AppCenter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AppCenter.xcframework; path = "AppCenter-SDK-Apple/AppCenter.xcframework"; sourceTree = "<group>"; };
+		72F1C87A91DD130F3F8462BC71DEC0D9 /* AppCenter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppCenter.xcframework; path = "AppCenter-SDK-Apple/AppCenter.xcframework"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		76A198B3141B9919FCE3F5719771265F /* Pods-Devops-iOS-Devops-iOSUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Devops-iOS-Devops-iOSUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		77910C85F97E64337283AF00B3AF485B /* Pods-Devops-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Devops-iOS-dummy.m"; sourceTree = "<group>"; };
 		7E1F3CD3A47A94276E1915AD0169E955 /* Pods-Devops-iOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Devops-iOS-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A016D5CC4A2CE35855D4A7332C0DE9B3 /* Pods-Devops-iOS-Devops-iOSUITests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Devops-iOS-Devops-iOSUITests"; path = Pods_Devops_iOS_Devops_iOSUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46DAF8CA51CEEB49C01CC9771D980CD /* Pods-Devops-iOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Devops-iOS-Info.plist"; sourceTree = "<group>"; };
 		A561AE10AB0B7CBF450D96A91F29E16B /* Pods-Devops-iOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Devops-iOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AD44FC46B57376646FA928D81B072D9B /* Pods-Devops-iOS-Devops-iOSUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Devops-iOS-Devops-iOSUITests-umbrella.h"; sourceTree = "<group>"; };
 		B066633F921DF3706F76021CF700E4DE /* Pods-Devops-iOS-Devops-iOSUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Devops-iOS-Devops-iOSUITests.release.xcconfig"; sourceTree = "<group>"; };
-		B69D7A7B4C1622AD650EA2E030736707 /* AppCenterAnalytics.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AppCenterAnalytics.xcframework; path = "AppCenter-SDK-Apple/AppCenterAnalytics.xcframework"; sourceTree = "<group>"; };
+		B69D7A7B4C1622AD650EA2E030736707 /* AppCenterAnalytics.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppCenterAnalytics.xcframework; path = "AppCenter-SDK-Apple/AppCenterAnalytics.xcframework"; sourceTree = "<group>"; };
 		C39874D5A2964042B413F857C0520145 /* AppCenter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AppCenter.release.xcconfig; sourceTree = "<group>"; };
 		C42D4ED3902E6836ECD1C9C88CD071CD /* Pods-Devops-iOS-Devops-iOSUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Devops-iOS-Devops-iOSUITests.modulemap"; sourceTree = "<group>"; };
-		D024FDD6D97527CD1036848CD81D190B /* AppCenterCrashes.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = AppCenterCrashes.xcframework; path = "AppCenter-SDK-Apple/AppCenterCrashes.xcframework"; sourceTree = "<group>"; };
+		D024FDD6D97527CD1036848CD81D190B /* AppCenterCrashes.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppCenterCrashes.xcframework; path = "AppCenter-SDK-Apple/AppCenterCrashes.xcframework"; sourceTree = "<group>"; };
 		D4B7E7F84E004352DD0095FA6F7E947F /* Pods-Devops-iOS-Devops-iOSUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Devops-iOS-Devops-iOSUITests-dummy.m"; sourceTree = "<group>"; };
 		D7B87D12E6CFDFADAC3F8353D5A74065 /* Pods-Devops-iOSTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Devops-iOSTests-umbrella.h"; sourceTree = "<group>"; };
 		D9DD6E444E07C504FAA79D0C2F7B4DD3 /* Pods-Devops-iOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Devops-iOS-umbrella.h"; sourceTree = "<group>"; };
@@ -232,7 +233,6 @@
 				ED5E0372385F80256AD185B82982C57C /* Crashes */,
 				B429B4E34BC53C308CEE01E3AB1A4C15 /* Support Files */,
 			);
-			name = AppCenter;
 			path = AppCenter;
 			sourceTree = "<group>";
 		};

@@ -101,7 +101,6 @@
 				A29083BEA55AEC1155908216 /* Pods-Devops-iOSTests.debug.xcconfig */,
 				0EA45B01B2F486287C5E824C /* Pods-Devops-iOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
