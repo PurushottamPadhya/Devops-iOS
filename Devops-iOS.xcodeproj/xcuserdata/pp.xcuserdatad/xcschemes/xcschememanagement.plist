@@ -6,8 +6,28 @@
 	<dict>
 		<key>Devops-iOS.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>EE139BFF27C3160300D620A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE139C1527C3160600D620A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE139C1F27C3160600D620A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
